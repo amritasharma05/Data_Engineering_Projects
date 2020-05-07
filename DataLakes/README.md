@@ -1,0 +1,1 @@
+## This directory contains the projects and exercises related to Data lakes section 
