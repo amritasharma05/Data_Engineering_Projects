@@ -28,7 +28,7 @@ In the DAG, we added default parameters according to these guidelines
 * In addition, configure the task dependencies so that after the dependencies are set, the graph view follows the 
 flow shown in the image below.
 
-![Sparkfiy DAG](/Users/krishns18/Downloads/Data Engineering Nanodegree Udacity/DataPipelinewithAirflow/home/dag.png)
+![Sparkfiy DAG](/Users/krishns18/PycharmProjects/Data_Engineering_Projects/DataPipelinewithAirflow/Project4/dags/dag.png)
 
 
 # Building the operators
