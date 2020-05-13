@@ -9,7 +9,8 @@ using Spark and Parquet file format
 processes them using Spark, and loads the data back into S3 as a set of dimensional tables.
 
 3. Data Modelling with Postgress - The purpose of this project is to define a fact and dimension tables for a star 
-schema and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgres using Python and SQL. 
+schema and write an ETL pipeline that transfers data from files in two local directories into these tables in Postgress
+using Python and SQL. 
 
 4. Data Pipeline with Airflow - The purpose of this project is to develop a data warehouse ETL pipelines using Apache 
 Airflow.
