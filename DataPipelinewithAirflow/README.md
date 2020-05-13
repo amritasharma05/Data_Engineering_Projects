@@ -1,1 +1,1 @@
-## This directory contains the projects and exercises related to Data pipeline with Airflow section 
+## This directory containing projects and exercises for Data pipeline with Airflow section 
