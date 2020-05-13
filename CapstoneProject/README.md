@@ -14,7 +14,8 @@ The project follows the follow steps:
     * I94 Immigration
     * U.S. City Demographic
     * Airport Code Table
-*I used the above data sources to create a data model used to understand immigration patterns in the US.
+    
+* I used the above data sources to create a data model used to understand immigration patterns in the US.
 * Tool/Framework used was Spark in parquet file format to extract, transform and build data model used to understand 
 immigration patterns. 
 * Spark is used because of the ability to process massive datasets and parquet file format for efficient querying due to

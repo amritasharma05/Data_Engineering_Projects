@@ -1,11 +1,16 @@
 ### Introduction
-A music streaming startup, Sparkify, has grown their user base and song database even more and want to move their data warehouse to a data lake. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as a directory with JSON metadata on the songs in their app.
+A music streaming startup, Sparkify, has grown their user base and song database even more and want to move their data
+warehouse to a data lake. Their data resides in S3, in a directory of JSON logs on user activity on the app, as well as
+a directory with JSON metadata on the songs in their app.
 
 #### Goal
-The purpose of the project is to build an ETL pipeline that extracts their data from S3, processes them using Spark, and loads the data back into S3 as a set of dimensional tables. This will allow their analytics team to continue finding insights in what songs their users are listening to.
+The purpose of the project is to build an ETL pipeline that extracts their data from S3, processes them using Spark, and 
+loads the data back into S3 as a set of dimensional tables. This will allow their analytics team to continue finding
+ insights in what songs their users are listening to.
 
 #### Purpose
-The purpose of the building the data lake is to find insights about what song their users are listening to using different tables in data lake.
+The purpose of the building the data lake is to find insights about what song their users are listening to using 
+different tables in data lake.
 
 #### Design
 The database schema design used for this project is using Facts and Dimensions Tables with below details:
